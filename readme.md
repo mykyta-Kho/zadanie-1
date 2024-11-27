@@ -8,4 +8,4 @@
 
 ##### Súbor main.py je hlavný kód aplikácie. Obsahuje import obrázku TUKE.jpg
 
-![__Vzhľad aplikácie:__] (./Images/priklad.png)
+![__Vzhľad aplikácie:__] (https://github.com/mykyta-Kho/zadanie-1/blob/master/Images/priklad.png)
